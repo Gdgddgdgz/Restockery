@@ -4,9 +4,9 @@
 
 ![Restockery Logo](/Restockery/public/logo.jpg)
 
-Idea Video : [https://youtu.be/oXa6hybPTyg](url)
+- **Idea Video:** https://youtu.be/oXa6hybPTyg  
+- **Demo Video:** https://youtu.be/6ZAL0FPjH5c
 
-Demo Video : [https://youtu.be/6ZAL0FPjH5c](url)
 
 ## 🚀 The Vision
 Small retailers often struggle with unpredictable demand during local events (Exams, Festivals, Holidays). Restockery uses **Demand Intelligence** to automatically adjust stock thresholds, ensuring retailers are always prepared for surges without over-investing in dormant inventory.
