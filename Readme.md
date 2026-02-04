@@ -2,7 +2,9 @@
 
 **Restockery** is a next-generation, AI-driven inventory management prototype designed specifically for small and medium-sized retailers. Built during a 24-hour hackathon, it aims to eliminate stockouts and optimize cash flow by predicting hyperlocal demand shifts.
 
-![Restockery Logo](/public/logo.jpg)
+![Restockery Logo](/Restockery/public/logo.jpg)
+
+Video Link : [https://drive.google.com/file/d/1ZnQgggSV40utUENTgCyepI-k2QWkbF0K/view?usp=drive_link](url)
 
 ## 🚀 The Vision
 Small retailers often struggle with unpredictable demand during local events (Exams, Festivals, Holidays). Restockery uses **Demand Intelligence** to automatically adjust stock thresholds, ensuring retailers are always prepared for surges without over-investing in dormant inventory.
