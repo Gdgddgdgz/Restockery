@@ -5,6 +5,7 @@
 ![Restockery Logo](/Restockery/public/logo.jpg)
 
 Idea Video : [https://drive.google.com/file/d/1ZnQgggSV40utUENTgCyepI-k2QWkbF0K/view?usp=drive_link](url)
+
 Demo Video : [https://drive.google.com/file/d/1_FRxWZ3nCGF8TeoJ4OJIRzvwS4oDgrPB/view?usp=drive_link](url)
 
 ## 🚀 The Vision
